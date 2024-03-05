@@ -40,7 +40,7 @@
 <div align="center">
   <a href= "https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,c++,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,nextjs,mysql" /><br>
   <a/>
 </div>
 
