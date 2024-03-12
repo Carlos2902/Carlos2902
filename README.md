@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Restaurant webpage:(carlos2902.github.io/oaxaca-restaurant/)**
+ 🔭 I’m currently working on **My portfolio:[https://carloslopezdev.com/]**
  
 🌱 I’m currently learning **Python, Cloud Hosting, SQL**
 
