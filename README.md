@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **My portfolio:[https://carloslopezdev.com/]**
  
-🌱 I’m currently learning **Python, Cloud Hosting, SQL**
+🌱 I’m currently learning **Python, Django, SQL**
 
 ⚡️ Fun fact **Honey never spoils!**
 
