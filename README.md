@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+!+😁;+I'm+Carlos+Lopez!;" />
 </h1>
 
-<h3 align="center">A passionate software developer in Canada 🇨🇦, that enjoys challenges, team work and tacos🌮 </h3>
+<h3 align="center">A software engineer in Canada 🇨🇦, that enjoys challenges, team work and tacos🌮 </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **My portfolio:[https://carloslopezdev.com/]**
+ 🔭 Take a look on **My portfolio:[https://carloslopezdev.com/]**
  
 🌱 I’m currently learning **Python, Django, SQL**
 
-⚡️ Fun fact **Honey never spoils!**
+⚡️ Contact me **[www.linkedin.com/in/carlos-lopez-software-dev]**
 
  </div>
 
