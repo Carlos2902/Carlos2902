@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Take a look on **My portfolio:[https://carloslopezdev.com/]**
+Take a look on **My portfolio:[https://carloslopezdev.com/]**
  
-🌱 I’m currently learning **Python, Django, SQL**
+Building...
 
-⚡️ Contact me **[www.linkedin.com/in/carlos-lopez-software-dev]**
+Contact me **[www.linkedin.com/in/carlos-lopez-software-dev]**
 
  </div>
 
